@@ -5,7 +5,9 @@ Install dependencies: npm install.
 
 Running Tests
 To run the tests, use the following command:
+
 npm run cypress:open
+
 This will open the Cypress Test Runner, where you can select the desired test file or run all tests.
 
 Test Files
